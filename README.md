@@ -1,0 +1,1 @@
+An example of peroperly debouncing an event listener.
